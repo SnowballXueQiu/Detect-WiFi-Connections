@@ -1,0 +1,2 @@
+C:/Users/Snowball_233/CLionProjects/Detect-WiFi-Connections/wifi-module/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Snowball_233/CLionProjects/Detect-WiFi-Connections/wifi-module/cmake-build-debug/CMakeFiles/rebuild_cache.dir

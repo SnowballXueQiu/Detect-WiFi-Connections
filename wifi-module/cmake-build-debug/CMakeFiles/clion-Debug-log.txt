@@ -1,0 +1,10 @@
+C:\Users\Snowball_233\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Snowball_233/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\Snowball_233\CLionProjects\Detect-WiFi-Connections\wifi-module -B C:\Users\Snowball_233\CLionProjects\Detect-WiFi-Connections\wifi-module\cmake-build-debug
+CMake Error at CMakeLists.txt:5 (add_subdirectory):
+  add_subdirectory given source "cpp" which is not an existing directory.
+
+
+CMake Error at CMakeLists.txt:6 (add_subdirectory):
+  add_subdirectory given source "wasm" which is not an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
