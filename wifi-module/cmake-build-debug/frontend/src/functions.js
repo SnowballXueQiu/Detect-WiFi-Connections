@@ -1,0 +1,1 @@
+Module['onRuntimeInitialized'] = function() { Module['addRunDependency']('wasm-instantiate'); Module['_getWifiInfo'] = Module.cwrap('_getWifiInfo', 'number', []); Module['removeRunDependency']('wasm-instantiate'); if (!Module['calledRun']) run(); };

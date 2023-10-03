@@ -157,7 +157,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=WifiApp
+CMAKE_PROJECT_NAME:STATIC=Detect-WiFi-Connections
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Users/Snowball_233/AppData/Local/Programs/CLion/bin/mingw/bin/ranlib.exe
@@ -238,6 +238,15 @@ CMAKE_STRIP:FILEPATH=C:/Users/Snowball_233/AppData/Local/Programs/CLion/bin/ming
 // during the make.  This is useful for debugging only. With Visual
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
+
+//Value Computed by CMake
+Detect-WiFi-Connections_BINARY_DIR:STATIC=C:/Users/Snowball_233/CLionProjects/Detect-WiFi-Connections/wifi-module/cmake-build-debug
+
+//Value Computed by CMake
+Detect-WiFi-Connections_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Detect-WiFi-Connections_SOURCE_DIR:STATIC=C:/Users/Snowball_233/CLionProjects/Detect-WiFi-Connections/wifi-module
 
 //Value Computed by CMake
 Project_BINARY_DIR:STATIC=C:/Users/Snowball_233/CLionProjects/Detect-WiFi-Connections/wifi-module/cmake-build-debug
